@@ -15,6 +15,6 @@ public class Customer {
     Integer id;
     String name;
     String email;
-    String version;
+    Integer version;
 
 }

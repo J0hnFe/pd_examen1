@@ -14,7 +14,7 @@ public class LineItem {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     Integer id;
     Integer quantity;
-    String bookIsbn;
+    String isbn;
     Integer orderId;
 
 }
